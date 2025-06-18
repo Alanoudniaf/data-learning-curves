@@ -1,6 +1,6 @@
 # Learning Curves
 
-🎯 In this exercise you will cover:
+🎯 In this project I will cover:
 
 - Learning Curves
 - Bias
@@ -8,11 +8,11 @@
 - Polynomial Features
 - Necessary training size
 
-You will be guided through interpreting the learning curves and understanding how model complexity affects your results and how you can prevent underfitting and overfitting.
+I will be guided through interpreting the learning curves and understanding how model complexity affects my results and how you can prevent underfitting and overfitting.
 
 ## The dataset 🏀
 
-You will be diving deeper into the NBA dataset from Challenge 1. The dataset contains statistics of 4000 NBA players, including:
+I will be diving deeper into the NBA dataset from Challenge 1. The dataset contains statistics of 4000 NBA players, including:
 
 - `season`: The season (yearly) the player played in
 - `poss`: Possessions played
@@ -21,7 +21,7 @@ You will be diving deeper into the NBA dataset from Challenge 1. The dataset con
 - `pacing`: Player impact on team possessions per 48 minutes
 - `win_rating`: *Wins Above Replacement* rating, how many additional wins a player is worth over a same-level replacement
 
-To start the exercise, open `Learning_Curves.ipynb` in `jupyter notebook` and follow the instructions.
+To start the project, open `Learning_Curves.ipynb` in `jupyter notebook` and follow the instructions.
 
 🕰️ Estimated Time of Completion = 60 min
 
